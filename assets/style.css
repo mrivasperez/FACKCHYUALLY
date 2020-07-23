@@ -1,47 +1,32 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
 
 * {
-  margin: 0;
-  padding: 0;
-}
-
-body {
   font-family: "Open Sans", sans-serif;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
-img {
-  width: 50%;
-}
-
-.header {
-  text-align: center;
-  color: white;
-  font-size: 30px;
-  background-image: url("/assets/header.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center top;
-}
-
-.header-container {
-  padding: 50px;
-
-  background-color: teal;
 }
 
 .button {
-  background-color: #4caf50;
-  border: none;
-  color: white;
-  padding: 15px 32px;
+  border-radius: 91px;
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  box-shadow: 8px 8px 20px #8c8c8c, -8px -8px 20px #ffffff;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #008000;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  padding: 50px;
+  background: white;
+  flex: 0 0 80%;
+  border: 1px white solid;
+  max-width: 500px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+  border-radius: 50px;
+  box-shadow: 20px 20px 60px #004600, -20px -20px 60px #00ba00;
 }
