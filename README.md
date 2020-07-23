@@ -1,6 +1,6 @@
 # FACKCHYUALLY | A random FACT Generator.
 
-![screenshot](assets/screenshot.png)
+![Screenshot of homepage](assets/screenshot.png)
 
 > A screenshot of the homepage displaying a random fact.
 
