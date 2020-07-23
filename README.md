@@ -10,3 +10,5 @@ Fackhyually is a random fact generator. I built it using HTML, CSS, and Vanilla 
 
 - I used the Useless Facts API https://uselessfacts.jsph.pl/
 - W3 Schools for all the CSS help
+
+![Live demo](https://mrivasperez.github.io/FACKCHYUALLY/)
